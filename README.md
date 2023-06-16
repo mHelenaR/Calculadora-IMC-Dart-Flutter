@@ -66,7 +66,7 @@ flutter run
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](https://github.com/seu-usuario/nome-do-repositorio/blob/main/LICENSE).
+Este projeto está licenciado sob a [Licença MIT](https://github.com/mHelenaR/Calculadora-IMC-Dart-Flutter/blob/main/LICENSE).
 
 ## Contato
 
